@@ -1,0 +1,23 @@
+
+#olasz {
+    margin: auto;
+    width: 1000px;
+
+}
+img{
+    border: 2px;
+    border-color: red;
+    border-style: solid;
+    
+    
+}
+.jobb{
+    float: right;
+    margin-left: 10px;
+    
+}
+
+.bal{
+    float: left;
+    margin-right: 10px;
+}
