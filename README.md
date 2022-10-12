@@ -1,4 +1,4 @@
-#project munka
+# project munka
 ezt a projektmunkát hárman csináltunk
 - valami
 - valami
